@@ -1,4 +1,5 @@
-# Task 3: Loan Eligibility Prediction (Classification)
+# Task 1
+# project 3: Loan Eligibility Prediction (Classification)
 Part of my Data Science internship at SoftGrowTech.
 
 ## 📊 Project Overview
